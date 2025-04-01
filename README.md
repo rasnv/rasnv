@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi I'm Rama Subramanian (he/him) 👋
 
+## About Me 📢
+
+I'm a physics post graduate working in numerical hydrocode models and remote sensing data mainly on impact cratering processes on lunar surface.
 <!--
 **rasnv/rasnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
