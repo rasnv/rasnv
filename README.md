@@ -2,9 +2,9 @@
 
 ## About Me 📢 
 
-I am a physics graduate who's passionate about exploring planetary surface processes through numerical modeling and data analysis, integrating remote sensing and in-situ data. 
+I am a physics graduate who's passionate about exploring planetary formation and their surface processes through numerical modeling and data analysis, integrating remote sensing and in-situ data. 
 
-Currently, I am working on shock physics hydrocode numerical models to study the formation of impact craters and impact processes on lunar south polar regions. 
+Currently, I am working on shock physics hydrocode numerical models to study the formation of impact craters and processes on lunar south polar regions. 
 
 🌱 I am open to engaging in field and laboratory research, as I believe hands-on expedition and experimentation are critical for conducting geological research.
 <!--
